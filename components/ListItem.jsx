@@ -1,4 +1,3 @@
-import { View, Text } from 'react-native'
 import React, { memo } from 'react'
 import Animated, { useAnimatedStyle, withTiming } from 'react-native-reanimated'
 

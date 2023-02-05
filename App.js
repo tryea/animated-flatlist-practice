@@ -1,4 +1,3 @@
-import { StatusBar } from 'expo-status-bar';
 import { FlatList, StyleSheet, Text, View } from 'react-native';
 import { useSharedValue } from 'react-native-reanimated';
 import ListItem from './components/ListItem';
